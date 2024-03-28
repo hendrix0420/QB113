@@ -4,15 +4,12 @@
 航空器宣布「低油量」時 （A）係指駕駛員認為其油量在抵達目的地時，無法接受不當之延誤，但並非意味該機需要航管上之優先處理（B）係指駕駛員認為其油量在抵達目的地時，可以接受延誤，但意味該機需要航管上之優先處理 （C）屬於緊急情況，意味該機需要航管上之優先處理。（D）屬於緊急情況，駕駛員須報告其剩餘若干分鐘之油量。
 
 當迴波器高度顯示與駕駛員報告高度相差多少呎以上時、高度顯示視為無效：
-A.	300
-B.	200
-C.	100
-D.	50
+(A) 300 (B) 200 (C) 100 (D) 50
 
 在應該收到電信時間之後的30分鐘內沒有收到電信，或從第一次設法和該航空器建立通信聯絡而未成功時起，30分鐘內仍未與該航空器取得聯絡，這兩者取其中較早者為準，此階段稱為（A）ALERFA（B）INCERFA（C）DETRESFA（D）以上皆非
 
 當高度顯示與駕駛員之報告高度相差小於多少呎時，視為有效之高度顯示：
-(A)100呎 (B)200呎 (C)300呎 (D)400呎
+(A) 100呎 (B) 200呎 (C) 300呎 (D) 400呎
 
 近場臺通知某航機機上有病患、需地面支援時，塔臺應通知何單位？
 (A)桃園區臺 (B)航務處 (C)氣象 (D)區管中心
@@ -28,7 +25,7 @@ D.	50
 對一架到場航機因航情需要欲”航向270引導至ILS Y 10跑道最後進場航道，並減速至200節”之術語，下列何者正確?
 (A) ”(Callsign), fly heading 270 vector to final approach course, reduce speed to two zero zero knots.”
 (B) ”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed to two zero zero.”
-(C）”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed two zero zero.”
+(C) ”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed two zero zero.”
 (D) ”(Callsign), fly heading 270 vector to final approach course, reduce speed to two zero zero.”
 
 當高度表撥定值為979.0至945.5百帕之間時，最低可使用之飛航空層為：
