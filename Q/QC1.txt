@@ -30,7 +30,7 @@
 
 對一架到場航機因航情需要欲”航向270引導至ILS Y 10跑道最後進場航道，並減速至200節”之術語，下列何者正確?
 (A) ”(Callsign), fly heading 270 vector to final approach course, reduce speed to two zero zero knots.”
-(B) ”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed to two zero zero.”
+(B) ”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed to two zero zero knots.”
 (C) ”(Callsign), fly heading 270 vector to ILS Y runway 10 final approach course, reduce speed two zero zero.”
 (D) ”(Callsign), fly heading 270 vector to final approach course, reduce speed to two zero zero.”
 
